@@ -63,6 +63,7 @@ report the toot](https://en.wikipedia.org/wiki/Bystander_effect).
 ### Moderators
 
 - [@avelino](https://clj.social/@avelino)
+- [@seancorfield](https://clj.social/@seancorfield)
 
 > Want to help clj.social by being a moderator? Send a message to [@avelino](https://clj.social/@avelino) and he will help you become part of the team, **but remember that you don't need _"status"_ to report rule violations**.
 
