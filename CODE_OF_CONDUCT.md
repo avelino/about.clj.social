@@ -27,9 +27,9 @@ behaviour. If you would like to exercise your full free speech rights, you can d
 * An advocacy space. There are many important, controversial and political issues; and advocating for what 
 you believe is important. However, [clj.social](https://clj.social) is not the place for that advocacy. 
 Even correct views can violate our CoC.
-* An experts-only space. We all share a love of FOSS, but no [clj.social](https://clj.social) user should be 
-shamed for not understanding a basic concept or told to read the manual before asking questions about a 
-certain technology.
+* An experts-only space. We all share a love of Clojure and FOSS, but no [clj.social](https://clj.social) 
+user should be shamed for not understanding a basic concept or told to read the manual before asking 
+questions about a certain technology.
 
 ## Public Toots
 
