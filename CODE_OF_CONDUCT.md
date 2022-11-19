@@ -79,3 +79,20 @@ The moderation team will always take a pragmatic approach to every report they r
 feel that a problematic Toot isn’t explicitly called out in this CoC, yet is inappropriate for 
 [clj.social](https://clj.social), the Toot will likely be removed and the member will be dealt 
 with appropriately.
+
+## Server Rules
+
+As a reminder, here are the server rules as displayed on https://clj.social/about
+
+* Do not use slurs or racist, sexist, homophobic, transphobic, ableist or otherwise discriminatory or hateful jokes or language or promote white supremacy, anti-Semitism, transphobia or other hateful ideologies.
+* Do not harass anyone, participate in group harassment of anyone, or otherwise engage in personal attacks. Posting or threatening to post other people’s personally identifying information (“doxing”) constitutes harassment.
+* Do not be intentionally antagonistic. A post or reply designed to provoke a confrontation is not acceptable.
+* Do not post adult content, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
+* Do not post spam. Toots that are nothing other than a link and/or contain an inordinate number of hashtags are spam, as is any overly commercial self-promotion. (It is fine to toot about your own projects and share what you are excited to be working on — just keep the toot itself interesting).
+* Do not use automated tools to toot without participating in the community. It is fine to post with an automated tool so long as you are an active member of the clj.social community and respond to replies you receive here. Unmonitored accounts that post automatically are not acceptable.
+* Do not “shitpost” - while humorous posts are allowed, and actually encouraged, there is no place for “shitposting” on clj.social.
+* Do not post about inflammatory, controversial subjects without a Content Warning.
+* Do not engage in name calling, ad hominem attacks, or any other uncivil behaviour; criticize ideas, never people.
+* Do not tone police. Toots may violate the standards of civility we set on clj.social, but you should not criticize users for their tone. Report them or feel free to block them. In neither case should you criticize their tone.
+* Do not debate moderation actions in public toots. If you disagree with how a moderator enforced this CoC you may direct-message the moderation team or email team@clj.social.
+
